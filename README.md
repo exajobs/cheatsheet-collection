@@ -218,18 +218,18 @@ An ongoing & curated collection of awesome software, frameworks and libraries, l
 - [systemtap-cheat-sheet](https://github.com/calio/systemtap-cheat-sheet)
 - [Zypper Command Line Tool Cheatsheat](https://en.opensuse.org/images/1/17/Zypper-cheat-sheet-1.pdf)
 
-## Media
+## `Media`
 
 - [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet)
 
-## Security
+## `Security`
 
 - [HTML5 Security Cheatsheet](https://github.com/cure53/H5SC)
 - [Security Tools Cheatsheets](https://github.com/andrewjkerr/security-cheatsheets)
 - [oauthsecurity](https://sakurity.com/oauth)
 - [OWASP Cheat Sheets](https://www.owasp.org/images/9/9a/OWASP_Cheatsheets_Book.pdf)
 
-## Project Management
+## `Project Management`
 
 - [Agile Cheatsheet](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)
 - [Scrum Cheatsheet](https://www.axosoft.com/Downloads/Scrum_Diagram.pdf)
@@ -237,7 +237,7 @@ An ongoing & curated collection of awesome software, frameworks and libraries, l
 - [Lean Cheatsheet](https://www.cheatography.com/davidpol/cheat-sheets/lean-methodology/pdf_bw/)
 - [A set of metodologies in one Cheatsheet (waterfall, agile, lean, xp, etc)](https://www.cheatography.com/nataliemoore/cheat-sheets/system-development-methodologies/pdf_bw/)
 
-## Miscellaneous
+## `Miscellaneous`
 
 - [easings.net](https://github.com/ai/easings.net)
 - [math-as-code](https://github.com/Jam3/math-as-code)
@@ -249,7 +249,7 @@ An ongoing & curated collection of awesome software, frameworks and libraries, l
 
  
 
-## License
+## `License`
 
 MIT License 
 
